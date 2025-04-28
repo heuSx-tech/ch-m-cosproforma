@@ -111,7 +111,7 @@ function proformaOlustur() {
             <p class="footer">
 Banka Bilgileri:
 Rifat Hakan Güleser
- IBAN : WhatssApp üzerinden iletilecektir.
+ IBAN : WhatsApp üzerinden iletilecektir.
     </body>
     </html>
   `;
